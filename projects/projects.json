@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website to showcase projects, skills, resume, and contact details. Built using HTML, CSS, JavaScript with smooth animations and modern UI.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Portfolio"
+    }
+  },
+  {
+    "name": "Farmers Direct Selling Platform",
+    "desc": "A full-stack platform enabling farmers to sell products directly to consumers without intermediaries. Includes JWT authentication, React frontend, Spring Boot backend, and Razorpay payment integration.",
+    "image": "farmers",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Farmers-Direct-Selling"
+    }
+  },
+  {
+    "name": "Weather APP",
+    "desc": "A responsive web application that displays real-time weather information including temperature, humidity, wind speed, and weather conditions using a public weather API.",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/weather-app"
+    }
+  },
+  {
+    "name": "ParkWhiz",
+    "desc": "he ParkWhiz parking platform. Built to understand parking workflows, slot availability layout, and modern responsive UI design.",
+    "image": "parkwhiz",
+    "category": "app",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/parkwhiz"
+    }
+  },
+  {
+    "name": "Expense Tracker",
+    "desc": "Smart expense tracking system with AI-based fraud detection. Built using Spring Boot, JWT authentication, REST APIs, and Python-based ML models.",
+    "image": "expense",
+    "category": "java",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Expense-Tracker-with-Fraud-Detection-using-Java"
+    }
+  },
+  {
+    "name": "Women-shopping-ecommerce-website",
+    "desc": "A responsive e-commerce website focused on women’s fashion and accessories. Features product listings, category-based browsing, and a clean user interface built using HTML, CSS, and JavaScript.",
+    "image": "ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Women-shopping-ecommerce-website"
+    }
+  },
+  {
+    "name": "Digitized Bonafide Certificate System",
+    "desc": "Web-based system for generating and managing digital bonafide certificates for educational institutions using Spring Boot and MySQL.",
+    "image": "bonafide",
+    "category": "java",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Digital-Bonafide-System"
+    }
+  },
+  {
+    "name": "Task Management",
+    "desc": "A full-stack task management web application built using the MERN stack. Allows users to create, update, delete, and track tasks with a responsive and user-friendly interface.",
+    "image": "taskmern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Task_management"
+    }
+  },
+  {
+    "name": "Image Forgery Detection",
+    "desc": "Machine learning-based system to detect tampered images using Python, OpenCV, and deep learning techniques.",
+    "image": "forgery",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Image_Forgery_Detection"
+    }
+  },
+  {
+    "name": "COPD Early Prediction System",
+    "desc": "Healthcare prediction system that identifies early-stage COPD using machine learning and patient data analysis.",
+    "image": "copd",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/COPD-prediction-bot"
+    }
+  },
+  {
+    "name": "Netflix UI Clone",
+    "desc": "Netflix homepage UI clone built using HTML, CSS, and JavaScript focusing on layout accuracy and responsiveness.",
+    "image": "netflixclone",
+    "category": "uiclone",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Netflix_Clone"
+    }
+  },
+  {
+    "name": "Amazon UI Clone",
+    "desc": "Amazon website UI clone showcasing product listings, navbar, and responsive e-commerce layout.",
+    "image": "amazonclone",
+    "category": "uiclone",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Amazon_Clone"
+    }
+  },
+  {
+    "name": "Flipkart UI Clone",
+    "desc": "Flipkart UI clone focusing on homepage design, banners, and product cards using pure frontend technologies.",
+    "image": "flipkartclone",
+    "category": "uiclone",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Flipkart_Clone"
+    }
+  },
+  {
+    "name": "Hotstar UI Clone",
+    "desc": "Hotstar UI clone built using HTML, CSS, and JavaScript implementing video grid layout and sidebar navigation.",
+    "image": "hotstarclone",
+    "category": "uiclone",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Hotstar-Clone"
+    }
+  },
+  {
+    "name": "Spotify UI Clone",
+    "desc": "Spotify UI clone built using HTML, CSS, and JavaScript implementing video grid layout and sidebar navigation.",
+    "image": "Spotifyclone",
+    "category": "uiclone",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Bhavatharni/Spotify_Clone"
+    }
+  }
+]
